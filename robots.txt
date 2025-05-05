@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+IndexNow: https://www.linknews.kr/91fa8361b18a41dbb1e3f6f4f4049c92.txt
