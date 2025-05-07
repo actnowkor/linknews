@@ -3,6 +3,18 @@
 function findRelated(currentSlug, currentCategory, currentKeywords) {
   const posts = [
     {
+        "title": "사주로 보는 2025년 연애 트렌드: 소통과 자기 개발의 시대",
+        "slug": "saju-2025-love-growth-2505080208",
+        "category": "심리",
+        "keywords": [
+            "사주",
+            "연애 트렌드",
+            "소통",
+            "자기 개발",
+            "2025년"
+        ]
+    },
+    {
         "title": "2025년, 사주로 보는 연애운의 변화와 그 의미",
         "slug": "2025-saju-love-trend-2505080014",
         "category": "트렌드",
