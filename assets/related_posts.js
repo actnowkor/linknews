@@ -74,6 +74,20 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "비교 심리",
             "사진 스트레스"
         ]
+    },
+    {
+        "title": "진짜 돈 된다면, 왜 너희는 안 해? AI 부업의 함정",
+        "slug": "ai-sidejob-hype-truth-2505081905",
+        "category": "궁금증",
+        "keywords": [
+            "AI 부업",
+            "생성형 AI",
+            "유튜브 쇼츠",
+            "전자책",
+            "수익 과장",
+            "투잡",
+            "사이드잡 검증"
+        ]
     }
 ]
   const result = posts.filter(post => {
