@@ -37,6 +37,19 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "변화",
             "의미"
         ]
+    },
+    {
+        "title": "요즘 남자들, 왜 립밤에 집착할까?",
+        "slug": "zmen-beauty-lipbalm-trend-2505081839",
+        "category": "트렌드",
+        "keywords": [
+            "남성 뷰티",
+            "립밤",
+            "Z세대",
+            "외모 관리",
+            "자존감",
+            "비교 심리"
+        ]
     }
 ]
   const result = posts.filter(post => {
