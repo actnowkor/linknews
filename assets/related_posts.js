@@ -15,6 +15,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "2025년, 연애운이 상승하는 사주 조합은?",
+        "slug": "2025-love-saju-match-2505081859",
+        "category": "궁금증",
+        "keywords": [
+            "2025년 연애운",
+            "을사년",
+            "사주 조합",
+            "인연 찾기"
+        ]
+    },
+    {
         "title": "사주로 본 2025년 연애운: 새로운 시작을 위한 전략",
         "slug": "saju-2025-love-strategy-2505080246",
         "category": "자기계발",
