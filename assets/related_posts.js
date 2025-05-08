@@ -50,6 +50,19 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "자존감",
             "비교 심리"
         ]
+    },
+    {
+        "title": "왜 사진 속 나는 이상하게 나올까? 진짜 얼굴 vs 셀카의 진실",
+        "slug": "photo-vs-mirror-self-image-2505081847",
+        "category": "궁금증",
+        "keywords": [
+            "외모 왜곡",
+            "셀카",
+            "거울",
+            "자기 이미지",
+            "비교 심리",
+            "사진 스트레스"
+        ]
     }
 ]
   const result = posts.filter(post => {
