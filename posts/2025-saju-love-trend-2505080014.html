@@ -8,18 +8,16 @@
   <meta name="robots" content="index, follow" />
   <link rel="stylesheet" href="/assets/tailwind.css" />
 
-  <!-- 🧠 애널리틱스 코드 삽입 위치 -->
-  <!-- Google tag (gtag.js) -->
+  <!-- 🧠 Google 애널리틱스 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-FKSL0JB648"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'G-FKSL0JB648');
   </script>
 
-  <!-- 🔍 서치콘솔 메타태그 삽입 위치 -->
+  <!-- 🔍 서치콘솔 메타태그 자리 -->
   <!-- SEARCH_CONSOLE:INSERT_HERE -->
 
   <script type="application/ld+json">
@@ -42,36 +40,39 @@
 </head>
 <body class="bg-white text-gray-900 font-sans leading-relaxed">
 
-  <!-- ✅ 네비게이션 -->
+  <!-- ✅ 네비게이션 바 -->
   <nav class="bg-white border-b px-4 py-3 text-sm">
     <div class="max-w-3xl mx-auto flex justify-between items-center">
       <a href="/" class="font-bold text-xl text-black">링크뉴스</a>
       <div class="space-x-4 text-gray-700">
-        <a href="/category/정치" class="hover:underline">정치</a>
-        <a href="/category/사회" class="hover:underline">사회</a>
-        <a href="/category/기술" class="hover:underline">기술</a>
+        <a href="/category/curiosity" class="hover:underline">궁금증</a>
+<a href="/category/trend" class="hover:underline">트렌드</a>
+<a href="/category/growth" class="hover:underline">자기계발</a>
+<a href="/category/mind" class="hover:underline">심리</a>
+
       </div>
     </div>
   </nav>
 
+  <!-- ✅ 본문 -->
   <article class="max-w-3xl mx-auto px-4 py-10">
 
-    <!-- ✅ 브레드크럼 (카테고리 기반) -->
+    <!-- ✅ 브레드크럼 -->
     <nav class="text-sm text-gray-500 mb-4">
-      <a href="/" class="hover:underline">홈</a> &gt;
-      <a href="/category/트렌드" class="hover:underline">트렌드</a>
+      <a href="/" class="hover:underline">홈</a> >
+      <a href="/category/trend.html" class="hover:underline">트렌드</a>
     </nav>
 
-    <!-- ✅ 헤더: 제목 / 메타정보 -->
+    <!-- ✅ 글 제목 및 메타 -->
     <header class="mb-6">
       <h1 class="text-3xl font-bold mb-2">2025년, 사주로 보는 연애운의 변화와 그 의미</h1>
       <p class="text-sm text-gray-500">트렌드 · 2025-05-08</p>
     </header>
 
-    <!-- 📢 광고 상단 삽입 위치 -->
+    <!-- 📢 광고 상단 -->
     <!-- ADS:TOP -->
 
-    <!-- ✅ 본문 콘텐츠 (GPT 생성) -->
+    <!-- ✅ 본문 내용 -->
     <section class="prose prose-lg max-w-none my-8">
       <h2>2025년, 사주로 보는 연애운의 변화와 그 의미</h2>
 
@@ -113,15 +114,14 @@
 
 <p>운을 믿는 것도 괜찮습니다. 하지만 운이 말하지 않는 것들, 이를테면 당신의 용기나 진심, 책임감은 결국 선택에서 비롯됩니다.</p>
 
-<p>올해 연애운이 좋든 나쁘든, 당신은 어떤 사랑을 선택하시겠어요?</p>      
+<p>올해 연애운이 좋든 나쁘든, 당신은 어떤 사랑을 선택하시겠어요?</p>
     </section>
 
-    <!-- ✅ 관련 콘텐츠 + 하단 광고 -->
+    <!-- ✅ 관련 콘텐츠 및 광고 하단 -->
     <footer class="mt-12 pt-8 border-t">
       <h2 class="text-xl font-semibold mb-4">관련 콘텐츠</h2>
       <div id="related-posts"></div>
-
-      <!-- 📢 광고 하단 삽입 위치 -->
+      <!-- 📢 광고 하단 -->
       <!-- ADS:BOTTOM -->
     </footer>
 
@@ -134,16 +134,14 @@
     </div>
   </footer>
 
-  <!-- 🔗 관련 콘텐츠 스크립트 -->
+  <!-- 🔗 관련 콘텐츠 JS 로드 및 실행 -->
   <script src="/assets/related_posts.js"></script>
   <script>
   (function() {
     const currentSlug = "2025-saju-love-trend-2505080014";
     const currentCategory = "트렌드";
     const currentKeywords = ["사주","연애운","2025년","변화","의미"];
-
     const container = document.getElementById('related-posts');
-
     if (typeof findRelated === "function") {
       const related = findRelated(currentSlug, currentCategory, currentKeywords);
       if (container && related.length) {
@@ -165,15 +163,13 @@
     }
   })();
   </script>
-  <!-- 네이버 애널리틱스 코드 -->
+
+  <!-- ✅ 네이버 애널리틱스 -->
   <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
   <script type="text/javascript">
   if(!wcs_add) var wcs_add = {};
   wcs_add["wa"] = "126cda045da67e0";
-  if(window.wcs) {
-    wcs_do();
-  }
+  if(window.wcs) { wcs_do(); }
   </script>
-  <!-- 네이버 애널리틱스 코드 끝 -->
 </body>
 </html>
