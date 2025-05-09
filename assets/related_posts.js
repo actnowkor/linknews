@@ -90,6 +90,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "‘성공한 사람처럼 보이기’에 중독된 사회",
+        "slug": "successful-image-addiction-2505100243",
+        "category": "트렌드",
+        "keywords": [
+            "자기확신",
+            "허영",
+            "브랜딩 강박",
+            "외부 시선",
+            "이미지 메이킹"
+        ]
+    },
+    {
         "title": "‘되는 사람’처럼 보이는 법을 배우는 사람들",
         "slug": "deoneun-saram-cheoreom-boineun-beob-2505100213",
         "category": "트렌드",
