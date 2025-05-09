@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>페이지 생성 중입니다</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    /*! Tailwind Simulated (부분 발췌) */
+    body {
+      font-family: ui-sans-serif, system-ui, -apple-system;
+      background-color: #ffffff;
+      color: #1f2937;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    .text-gray-500 { color: #6b7280; }
+    .text-gray-900 { color: #111827; }
+    .text-sm { font-size: 0.875rem; }
+    .text-xl { font-size: 1.25rem; }
+    .text-3xl { font-size: 1.875rem; }
+    .font-bold { font-weight: 700; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .mt-10 { margin-top: 2.5rem; }
+    .mb-4 { margin-bottom: 1rem; }
+    .px-4 { padding-left: 1rem; padding-right: 1rem; }
+    .py-10 { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+    .max-w-3xl { max-width: 48rem; margin: 0 auto; }
+    .text-center { text-align: center; }
+    .rounded-xl { border-radius: 0.75rem; }
+    .bg-blue-500 { background-color: #3b82f6; }
+    .hover\:bg-blue-600:hover { background-color: #2563eb; }
+    .text-white { color: white; }
+    .hidden { display: none; }
+    .inline-block { display: inline-block; }
+    .transition { transition: all 0.2s ease-in-out; }
+    .shadow { box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+    .py-3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
+    .px-4 { padding-left: 1rem; padding-right: 1rem; }
+  </style>
+</head>
+<body>
+  <main class="py-10 px-4 text-center max-w-3xl">
+    <h1 class="text-3xl font-bold mb-4">페이지를 찾을 수 없습니다</h1>
+    <p class="text-xl mb-4">하지만 당신이 보고 싶어 하는 건<br><strong>우리가 이미 알고 있습니다.</strong></p>
+    <p class="text-gray-500 mb-4">지금, 해당 내용을 정리해서 보여드리는 중이에요...</p>
+
+    <div id="loading" class="text-sm font-mono text-blue-500">.</div>
+
+    <a href="/" id="redirectBtn"
+       class="hidden mt-10 inline-block bg-blue-500 text-white px-4 py-3 rounded-xl hover:bg-blue-600 transition shadow">
+      지금 확인하기
+    </a>
+  </main>
+
+  <script>
+    // 점점 ... 늘어나는 애니메이션
+    let dots = 1;
+    const loading = document.getElementById("loading");
+    const btn = document.getElementById("redirectBtn");
+
+    const interval = setInterval(() => {
+      loading.textContent = ".".repeat(dots);
+      dots = (dots % 3) + 1;
+    }, 500);
+
+    // 5초 후 버튼 등장
+    setTimeout(() => {
+      clearInterval(interval);
+      loading.textContent = "완료되었습니다.";
+      btn.classList.remove("hidden");
+    }, 5000);
+  </script>
+</body>
+</html>
