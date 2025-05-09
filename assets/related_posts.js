@@ -88,6 +88,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "투잡",
             "사이드잡 검증"
         ]
+    },
+    {
+        "title": "에겐녀 vs 테토녀: 당신의 진짜 성향은?",
+        "slug": "egen-vs-teto-test-2505092143",
+        "category": "궁금증",
+        "keywords": [
+            "에겐녀",
+            "테토녀",
+            "성격 유형 테스트",
+            "연애 성향",
+            "자기 이해"
+        ]
     }
 ]
   const result = posts.filter(post => {
