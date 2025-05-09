@@ -90,15 +90,15 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
-        "title": "에겐녀 vs 테토녀: 당신의 진짜 성향은?",
-        "slug": "egen-vs-teto-test-2505092143",
-        "category": "궁금증",
+        "title": "‘되는 사람’처럼 보이는 법을 배우는 사람들",
+        "slug": "deoneun-saram-cheoreom-boineun-beob-2505100213",
+        "category": "트렌드",
         "keywords": [
-            "에겐녀",
-            "테토녀",
-            "성격 유형 테스트",
-            "연애 성향",
-            "자기 이해"
+            "포장 기술",
+            "자기계발",
+            "성공 프레임",
+            "현실 회피",
+            "브랜딩 피로"
         ]
     }
 ]
