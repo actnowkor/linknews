@@ -135,6 +135,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "자기 객관화",
             "인지 오류"
         ]
+    },
+    {
+        "title": "메타인지, AI 시대를 살아가는 인간의 마지막 무기",
+        "slug": "metacognition-ai-era-human-weapon-2505101650",
+        "category": "트렌드",
+        "keywords": [
+            "메타인지",
+            "AI",
+            "자기객관화",
+            "미래역량"
+        ]
     }
 ]
   const result = posts.filter(post => {
