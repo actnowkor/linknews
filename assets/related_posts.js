@@ -112,6 +112,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "현실 회피",
             "브랜딩 피로"
         ]
+    },
+    {
+        "title": "마음챙김과 명상, 현대인의 필수 자기계발 도구",
+        "slug": "mindfulness-meditation-tool-2505101630",
+        "category": "자기계발",
+        "keywords": [
+            "마음챙김",
+            "명상",
+            "스트레스관리",
+            "자기돌봄",
+            "마음건강"
+        ]
     }
 ]
   const result = posts.filter(post => {
