@@ -92,6 +92,31 @@ a:hover {
   grid-template-columns: repeat(1, 1fr);
 }
 
+.image-wrapper {
+  position: relative;
+  max-width: 100%;
+  margin: 1.5rem auto;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.image-credit {
+  position: absolute;
+  bottom: 0.5rem;
+  right: 0.75rem;
+  background-color: rgba(255, 255, 255, 0.85);
+  color: #374151;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}
+
+
 @media (min-width: 768px) {
   .md\:grid-cols-2 {
     grid-template-columns: repeat(2, 1fr);
