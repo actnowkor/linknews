@@ -114,6 +114,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "AI와 함께하는 자기계발, 새로운 가능성의 문을 열다",
+        "slug": "ai-self-development-gpt-automation-2505110118",
+        "category": "자기계발",
+        "keywords": [
+            "AI",
+            "자기계발",
+            "생산성",
+            "시간관리",
+            "GPT"
+        ]
+    },
+    {
         "title": "마음챙김과 명상, 현대인의 필수 자기계발 도구",
         "slug": "mindfulness-meditation-tool-2505101630",
         "category": "자기계발",
