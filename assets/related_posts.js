@@ -124,6 +124,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "자기돌봄",
             "마음건강"
         ]
+    },
+    {
+        "title": "당신의 판단은 틀릴 수도 있다, 메타인지 테스트로 알아보는 자기 객관화 능력",
+        "slug": "metacognition-test-clarity-2505101644",
+        "category": "궁금증",
+        "keywords": [
+            "메타인지",
+            "메타인지 테스트",
+            "자기 객관화",
+            "인지 오류"
+        ]
     }
 ]
   const result = posts.filter(post => {
