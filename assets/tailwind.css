@@ -39,30 +39,12 @@ p {
 a {
   color: #1d4ed8;
   text-decoration: none;
-  position: relative;
   font-weight: 600;
   transition: color 0.2s ease;
 }
 
-a::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -2px;
-  width: 100%;
-  height: 2px;
-  background-color: #93c5fd; /* blue-300 */
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.2s ease;
-}
-
 a:hover {
-  color: #1e40af; /* blue-900 */
-}
-
-a:hover::after {
-  transform: scaleX(1);
+  color: #1e40af;
 }
 
 
@@ -83,6 +65,11 @@ a:hover::after {
   padding: 1.25rem;
   margin-bottom: 1.5rem;
   transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.border:hover {
+  box-shadow: 0 6px 12px rgba(30, 64, 175, 0.15); /* 파랑 계열 진한 그림자 */
+  transform: translateY(-2px);
 }
 
 .border-t { border-top: 1px solid #e5e7eb; }
