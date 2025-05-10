@@ -114,6 +114,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "디지털 시대의 셀프케어, 헬시 플레저의 부상",
+        "slug": "healthy-pleasure-digital-selfcare-2505110125",
+        "category": "자기계발",
+        "keywords": [
+            "헬시플레저",
+            "자기관리",
+            "스트레스",
+            "운동",
+            "영양"
+        ]
+    },
+    {
         "title": "AI와 함께하는 자기계발, 새로운 가능성의 문을 열다",
         "slug": "ai-self-development-gpt-automation-2505110118",
         "category": "자기계발",
