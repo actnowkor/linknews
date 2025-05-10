@@ -170,6 +170,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "자기객관화",
             "미래역량"
         ]
+    },
+    {
+        "title": "되는 사람처럼 보이고 싶은 심리, SNS 브랜딩의 이면",
+        "slug": "sns-identity-and-anxiety-trend-2505110143",
+        "category": "트렌드",
+        "keywords": [
+            "브랜딩",
+            "SNS",
+            "비교 심리",
+            "자기 정체성",
+            "SNS 피로감"
+        ]
     }
 ]
   const result = posts.filter(post => {
