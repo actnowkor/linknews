@@ -195,6 +195,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "바둑",
             "감정"
         ]
+    },
+    {
+        "title": "루틴만 붙잡고 사는 사람들의 공통 심리",
+        "slug": "routine-psychology-2505120255",
+        "category": "자기계발",
+        "keywords": [
+            "루틴",
+            "루틴뜻",
+            "습관강박"
+        ]
     }
 ]
   const result = posts.filter(post => {
