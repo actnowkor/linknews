@@ -207,6 +207,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "왜 사람들은 상처받기 전에 끊어내는 걸까?",
+        "slug": "avoidant-relationship-psychology-2505120312",
+        "category": "트렌드",
+        "keywords": [
+            "회피형인간",
+            "회피형인간특징",
+            "관계심리"
+        ]
+    },
+    {
         "title": "루틴만 붙잡고 사는 사람들의 공통 심리",
         "slug": "routine-psychology-2505120255",
         "category": "자기계발",
