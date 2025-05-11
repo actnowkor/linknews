@@ -182,6 +182,19 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "자기 정체성",
             "SNS 피로감"
         ]
+    },
+    {
+        "title": "조훈현과 이창호, 그들의 ‘승부’가 지금 사람들의 마음을 뒤흔드는 이유",
+        "slug": "cho-hunhyun-lee-changho-seungbu-2505111212",
+        "category": "트렌드",
+        "keywords": [
+            "조훈현",
+            "이창호",
+            "승부",
+            "사제 관계",
+            "바둑",
+            "감정"
+        ]
     }
 ]
   const result = posts.filter(post => {
