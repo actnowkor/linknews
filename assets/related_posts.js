@@ -197,6 +197,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "자격증만 쌓다 끝나는 사람들의 공통점",
+        "slug": "certificate-obsession-2505120309",
+        "category": "자기계발",
+        "keywords": [
+            "자격증",
+            "자격증추천",
+            "유망자격증"
+        ]
+    },
+    {
         "title": "루틴만 붙잡고 사는 사람들의 공통 심리",
         "slug": "routine-psychology-2505120255",
         "category": "자기계발",
