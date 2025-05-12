@@ -249,6 +249,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "괜찮다고 말할수록 마음이 병든다",
+        "slug": "pretending-to-be-okay-hurts-more-2505120945",
+        "category": "심리",
+        "keywords": [
+            "감정억제",
+            "자존감",
+            "사회적페르소나"
+        ]
+    },
+    {
         "title": "루틴만 붙잡고 사는 사람들의 공통 심리",
         "slug": "routine-psychology-2505120255",
         "category": "자기계발",
