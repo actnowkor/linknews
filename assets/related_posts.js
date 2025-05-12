@@ -90,6 +90,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "요즘 사람들은 왜 ‘되는 척’에 진심일까?",
+        "slug": "why-fake-it-culture-on-social-media-2505120935",
+        "category": "트렌드",
+        "keywords": [
+            "브랜딩",
+            "SNS",
+            "비교 심리",
+            "외현 중심",
+            "불안"
+        ]
+    },
+    {
         "title": "‘성공한 사람처럼 보이기’에 중독된 사회",
         "slug": "successful-image-addiction-2505100243",
         "category": "트렌드",
