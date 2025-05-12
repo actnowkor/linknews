@@ -287,6 +287,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "전기차",
             "전기차보조금"
         ]
+    },
+    {
+        "title": "짝사랑이 오래 지속되면 생기는 심리학적 현상 5가지",
+        "slug": "unrequited-love-psychology-effects-2505121113",
+        "category": "심리",
+        "keywords": [
+            "짝사랑",
+            "이상화",
+            "자기기만",
+            "심리현상",
+            "감정지속"
+        ]
     }
 ]
   const result = posts.filter(post => {
