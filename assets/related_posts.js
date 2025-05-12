@@ -313,6 +313,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "연애심리상담, 무료와 유료의 차이는 무엇인가요?",
+        "slug": "free-vs-paid-love-counseling-2505121126",
+        "category": "궁금증",
+        "keywords": [
+            "연애심리상담",
+            "무료상담",
+            "유료상담",
+            "상담심리",
+            "상담비용"
+        ]
+    },
+    {
         "title": "신혼부부가 가전 살 때 가장 많이 하는 실수는?",
         "slug": "common-appliance-mistakes-newlyweds-2505121121",
         "category": "심리",
