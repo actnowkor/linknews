@@ -225,6 +225,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "루틴뜻",
             "습관강박"
         ]
+    },
+    {
+        "title": "“대출 승인률 87%”의 진실, 믿어도 될까?",
+        "slug": "loan-approval-rate-truth-2505120320",
+        "category": "궁금증",
+        "keywords": [
+            "대출승인률",
+            "금융심리",
+            "마케팅트릭"
+        ]
     }
 ]
   const result = posts.filter(post => {
