@@ -229,6 +229,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "실손보험 청구, 왜 할수록 더 헷갈릴까?",
+        "slug": "health-insurance-claim-confusion-2505120938",
+        "category": "궁금증",
+        "keywords": [
+            "실손보험청구",
+            "실손보험",
+            "실비보험"
+        ]
+    },
+    {
         "title": "왜 사람들은 상처받기 전에 끊어내는 걸까?",
         "slug": "avoidant-relationship-psychology-2505120312",
         "category": "트렌드",
