@@ -311,6 +311,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "심리현상",
             "감정지속"
         ]
+    },
+    {
+        "title": "신혼부부가 가전 살 때 가장 많이 하는 실수는?",
+        "slug": "common-appliance-mistakes-newlyweds-2505121121",
+        "category": "심리",
+        "keywords": [
+            "신혼가전리스트",
+            "가전제품렌탈",
+            "LG냉장고",
+            "삼성가전",
+            "중고가전"
+        ]
     }
 ]
   const result = posts.filter(post => {
