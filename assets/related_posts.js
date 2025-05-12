@@ -277,6 +277,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "금융심리",
             "마케팅트릭"
         ]
+    },
+    {
+        "title": "전기차 리스가 보조금보다 인기인 이유",
+        "slug": "electric-car-lease-trend-2505120947",
+        "category": "트렌드",
+        "keywords": [
+            "전기차리스",
+            "전기차",
+            "전기차보조금"
+        ]
     }
 ]
   const result = posts.filter(post => {
