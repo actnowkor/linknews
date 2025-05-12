@@ -161,6 +161,16 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "공부 잘하는 아이들의 비밀, 메타인지 학습법",
+        "slug": "metacognition-learning-2505120332",
+        "category": "자기계발",
+        "keywords": [
+            "메타인지 학습법",
+            "메타인지 능력",
+            "메타인지 공부법"
+        ]
+    },
+    {
         "title": "메타인지, AI 시대를 살아가는 인간의 마지막 무기",
         "slug": "metacognition-ai-era-human-weapon-2505101650",
         "category": "트렌드",
