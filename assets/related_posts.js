@@ -289,6 +289,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "연애운이 좋다는 말, 실제로 어떤 변화가 있나요?",
+        "slug": "romantic-luck-psychology-effect-2505121118",
+        "category": "궁금증",
+        "keywords": [
+            "연애운",
+            "사주",
+            "운세심리",
+            "자각효과",
+            "심리暗示"
+        ]
+    },
+    {
         "title": "짝사랑이 오래 지속되면 생기는 심리학적 현상 5가지",
         "slug": "unrequited-love-psychology-effects-2505121113",
         "category": "심리",
