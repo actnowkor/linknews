@@ -313,6 +313,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "연애상담은 언제 받아야 할까? 상담 적기 판단법",
+        "slug": "love-counseling-right-time-2505121134",
+        "category": "궁금증",
+        "keywords": [
+            "연애상담",
+            "상담타이밍",
+            "연애문제",
+            "커플상담",
+            "심리기준"
+        ]
+    },
+    {
         "title": "연애심리상담, 무료와 유료의 차이는 무엇인가요?",
         "slug": "free-vs-paid-love-counseling-2505121126",
         "category": "궁금증",
