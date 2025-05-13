@@ -325,6 +325,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "재회부적 정말 효과 있나요? 전문가 의견 정리",
+        "slug": "does-reunion-charm-work-2505121139",
+        "category": "궁금증",
+        "keywords": [
+            "재회부적",
+            "부적효과",
+            "심리의존",
+            "매직씽킹",
+            "미신"
+        ]
+    },
+    {
         "title": "연애심리상담, 무료와 유료의 차이는 무엇인가요?",
         "slug": "free-vs-paid-love-counseling-2505121126",
         "category": "궁금증",
