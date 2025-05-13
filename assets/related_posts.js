@@ -301,6 +301,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "연애심리테스트로 알아보는 나의 연애유형",
+        "slug": "love-personality-test-2505121148",
+        "category": "궁금증",
+        "keywords": [
+            "연애심리테스트",
+            "연애유형",
+            "애착유형",
+            "MBTI연애",
+            "테스트"
+        ]
+    },
+    {
         "title": "재회상담, 실제 효과 있을까? 경험자 후기 분석",
         "slug": "reunion-counseling-effectiveness-2505121145",
         "category": "궁금증",
