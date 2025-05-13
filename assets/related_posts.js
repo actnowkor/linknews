@@ -301,6 +301,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "재회상담, 실제 효과 있을까? 경험자 후기 분석",
+        "slug": "reunion-counseling-effectiveness-2505121145",
+        "category": "궁금증",
+        "keywords": [
+            "재회상담",
+            "상담후기",
+            "재회심리",
+            "상담효과",
+            "연애컨설팅"
+        ]
+    },
+    {
         "title": "연애운이 좋다는 말, 실제로 어떤 변화가 있나요?",
         "slug": "romantic-luck-psychology-effect-2505121118",
         "category": "궁금증",
