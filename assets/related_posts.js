@@ -407,6 +407,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "수치 해석",
             "건강 불안"
         ]
+    },
+    {
+        "title": "AI가 대신 찾아준다? 딥리서치로 돈 되는 정보만 골라내는 법",
+        "slug": "deep-research-for-profit-2505140139",
+        "category": "자기계발",
+        "keywords": [
+            "딥리서치",
+            "AI 수익화",
+            "정보검색",
+            "ChatGPT",
+            "사이드잡"
+        ]
     }
 ]
   const result = posts.filter(post => {
