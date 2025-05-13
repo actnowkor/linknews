@@ -395,6 +395,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "삼성가전",
             "중고가전"
         ]
+    },
+    {
+        "title": "알부민이 낮으면 일어나는 진짜 무서운 일들",
+        "slug": "low-albumin-symptoms-warning-2505140051",
+        "category": "심리",
+        "keywords": [
+            "알부민 효능",
+            "간 기능",
+            "면역력",
+            "수치 해석",
+            "건강 불안"
+        ]
     }
 ]
   const result = posts.filter(post => {
