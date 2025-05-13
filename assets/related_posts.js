@@ -289,6 +289,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "이별 후 미련, 몇 주가 지나야 정상인가요?",
+        "slug": "how-long-is-breakup-grief-normal-2505121141",
+        "category": "심리",
+        "keywords": [
+            "이별",
+            "미련",
+            "애도",
+            "감정 순환",
+            "이별 극복"
+        ]
+    },
+    {
         "title": "연애운이 좋다는 말, 실제로 어떤 변화가 있나요?",
         "slug": "romantic-luck-psychology-effect-2505121118",
         "category": "궁금증",
