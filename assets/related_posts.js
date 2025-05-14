@@ -433,6 +433,19 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "장염 걸리면 절대 하지 말아야 할 5가지",
+        "slug": "enteritis-dont-dos-guide-2505141541",
+        "category": "자기계발",
+        "keywords": [
+            "장염",
+            "회복법",
+            "생활습관",
+            "음식",
+            "피해야 할 행동",
+            "치료"
+        ]
+    },
+    {
         "title": "왜 나만 장염이 자주 걸릴까? 의외의 원인 3가지",
         "slug": "frequent-enteritis-psychological-causes-2505141537",
         "category": "심리",
