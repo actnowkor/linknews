@@ -419,6 +419,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "ChatGPT",
             "사이드잡"
         ]
+    },
+    {
+        "title": "“시간 낭비 끝났다” 요즘 사람들이 메이크 자동화에 빠지는 이유",
+        "slug": "make-automation-trend-2505140215",
+        "category": "트렌드",
+        "keywords": [
+            "메이크",
+            "자동화",
+            "워크플로우",
+            "노코드",
+            "생산성"
+        ]
     }
 ]
   const result = posts.filter(post => {
