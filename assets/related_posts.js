@@ -409,18 +409,6 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
-        "title": "AI가 대신 찾아준다? 딥리서치로 돈 되는 정보만 골라내는 법",
-        "slug": "deep-research-for-profit-2505140139",
-        "category": "자기계발",
-        "keywords": [
-            "딥리서치",
-            "AI 수익화",
-            "정보검색",
-            "ChatGPT",
-            "사이드잡"
-        ]
-    },
-    {
         "title": "“시간 낭비 끝났다” 요즘 사람들이 메이크 자동화에 빠지는 이유",
         "slug": "make-automation-trend-2505140215",
         "category": "트렌드",
@@ -430,6 +418,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "워크플로우",
             "노코드",
             "생산성"
+        ]
+    },
+    {
+        "title": "자동화한다고 더 나아질 줄 알았지? 메이크에 속은 사람들",
+        "slug": "make-automation-failure-truth-2505140223",
+        "category": "트렌드",
+        "keywords": [
+            "메이크",
+            "자동화 실패",
+            "생산성 역효과",
+            "노코드 리스크",
+            "과신의 함정"
         ]
     }
 ]
