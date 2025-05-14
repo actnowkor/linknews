@@ -397,6 +397,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "중고가전 잘 파는 사람이 하는 3가지 행동",
+        "slug": "used-appliance-selling-tips-2505141544",
+        "category": "트렌드",
+        "keywords": [
+            "중고가전판매",
+            "중고냉장고",
+            "가전제품무료수거",
+            "중고거래"
+        ]
+    },
+    {
         "title": "알부민이 낮으면 일어나는 진짜 무서운 일들",
         "slug": "low-albumin-symptoms-warning-2505140051",
         "category": "심리",
