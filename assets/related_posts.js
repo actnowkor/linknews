@@ -431,6 +431,19 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "노코드 리스크",
             "과신의 함정"
         ]
+    },
+    {
+        "title": "왜 나만 장염이 자주 걸릴까? 의외의 원인 3가지",
+        "slug": "frequent-enteritis-psychological-causes-2505141537",
+        "category": "심리",
+        "keywords": [
+            "장염",
+            "스트레스",
+            "반복",
+            "원인",
+            "생활습관",
+            "자율신경"
+        ]
     }
 ]
   const result = posts.filter(post => {
