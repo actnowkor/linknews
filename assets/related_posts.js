@@ -301,6 +301,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "잠수이별을 당한 사람의 심리와 대처법, 다시 연락올 가능성은?",
+        "slug": "ghosting-psychology-and-recovery-2505141602",
+        "category": "궁금증",
+        "keywords": [
+            "잠수이별",
+            "고스트",
+            "회피형 애착",
+            "이별심리",
+            "연락심리"
+        ]
+    },
+    {
         "title": "이별 후 미련, 몇 주가 지나야 정상인가요?",
         "slug": "how-long-is-breakup-grief-normal-2505121141",
         "category": "심리",
