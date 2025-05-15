@@ -289,6 +289,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "짝사랑 포기하고 싶은데, 왜 자꾸 마음이 돌아설까요?",
+        "slug": "why-cant-i-get-over-crush-2505141551",
+        "category": "심리",
+        "keywords": [
+            "짝사랑",
+            "집착",
+            "미련",
+            "감정조절",
+            "애착이론"
+        ]
+    },
+    {
         "title": "이별 후 미련, 몇 주가 지나야 정상인가요?",
         "slug": "how-long-is-breakup-grief-normal-2505121141",
         "category": "심리",
