@@ -432,6 +432,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "나만 빼고 다 쓰는 AI 툴, 뭐길래?",
+        "slug": "popular-ai-tools-for-beginners-2505141556",
+        "category": "궁금증",
+        "keywords": [
+            "AI 툴",
+            "트렌드",
+            "ChatGPT",
+            "Notion AI",
+            "추천 앱"
+        ]
+    },
+    {
         "title": "“시간 낭비 끝났다” 요즘 사람들이 메이크 자동화에 빠지는 이유",
         "slug": "make-automation-trend-2505140215",
         "category": "트렌드",
