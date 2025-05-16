@@ -444,6 +444,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "왜 어떤 사람은 AI 덕분에 부자가 될까?",
+        "slug": "ai-money-gap-strategy-2505142150",
+        "category": "자기계발",
+        "keywords": [
+            "AI 부업",
+            "ChatGPT 수익화",
+            "GPT 마케팅",
+            "지식 자동화"
+        ]
+    },
+    {
         "title": "나만 빼고 다 쓰는 AI 툴, 뭐길래?",
         "slug": "popular-ai-tools-for-beginners-2505141556",
         "category": "궁금증",
