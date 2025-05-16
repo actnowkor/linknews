@@ -539,6 +539,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "주식리스크관리",
             "하락대응"
         ]
+    },
+    {
+        "title": "내가 감정적으로 매수하는지 확인하는 3가지 체크리스트",
+        "slug": "emotional-trading-checklist-2505151854",
+        "category": "심리",
+        "keywords": [
+            "감정매매",
+            "충동매수",
+            "공포매도",
+            "투자심리테스트",
+            "자기점검"
+        ]
     }
 ]
   const result = posts.filter(post => {
