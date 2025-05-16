@@ -517,6 +517,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "이 종목 살까 말까?”가 반복된다면: 투자 결정을 망설이는 사람의 심리와 대응법",
+        "slug": "investor-decision-psychology-2505150038",
+        "category": "심리",
+        "keywords": [
+            "주식심리",
+            "투자결정",
+            "매수망설임",
+            "심리적장애",
+            "의사결정"
+        ]
+    },
+    {
         "title": "“떨어질 때 사면 돈 번다?” 하락장에서 살아남는 매매 전략",
         "slug": "bear-market-buying-strategies-2505142332",
         "category": "자기계발",
