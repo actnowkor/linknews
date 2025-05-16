@@ -515,6 +515,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "생활습관",
             "자율신경"
         ]
+    },
+    {
+        "title": "“떨어질 때 사면 돈 번다?” 하락장에서 살아남는 매매 전략",
+        "slug": "bear-market-buying-strategies-2505142332",
+        "category": "자기계발",
+        "keywords": [
+            "하락장투자",
+            "매매전략",
+            "저가매수",
+            "주식리스크관리",
+            "하락대응"
+        ]
     }
 ]
   const result = posts.filter(post => {
