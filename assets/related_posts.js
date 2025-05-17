@@ -551,6 +551,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "투자심리테스트",
             "자기점검"
         ]
+    },
+    {
+        "title": "배당주 포트폴리오를 처음 짠다면 반드시 알아야 할 5가지 기준",
+        "slug": "dividend-portfolio-beginner-guide-2505161235",
+        "category": "자기계발",
+        "keywords": [
+            "배당주",
+            "포트폴리오구성",
+            "안정적수익",
+            "투자전략",
+            "배당성장"
+        ]
     }
 ]
   const result = posts.filter(post => {
