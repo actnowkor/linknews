@@ -529,6 +529,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "PER, PBR? 초보자도 알기 쉽게 이해하는 가치평가 지표의 핵심",
+        "slug": "per-pbr-beginner-stock-valuation-2505190744",
+        "category": "자기계발",
+        "keywords": [
+            "PER",
+            "PBR",
+            "주식가치평가",
+            "기초지표",
+            "초보주식"
+        ]
+    },
+    {
         "title": "“떨어질 때 사면 돈 번다?” 하락장에서 살아남는 매매 전략",
         "slug": "bear-market-buying-strategies-2505142332",
         "category": "자기계발",
