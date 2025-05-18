@@ -553,6 +553,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "‘주린이’가 가장 많이 묻는 7가지 질문과 실전 답변",
+        "slug": "beginner-stock-questions-guide-2505161239",
+        "category": "궁금증",
+        "keywords": [
+            "주린이",
+            "주식기초",
+            "투자Q&A",
+            "입문가이드",
+            "주식공부"
+        ]
+    },
+    {
         "title": "배당주 포트폴리오를 처음 짠다면 반드시 알아야 할 5가지 기준",
         "slug": "dividend-portfolio-beginner-guide-2505161235",
         "category": "자기계발",
