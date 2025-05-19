@@ -623,6 +623,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "투자전략",
             "배당성장"
         ]
+    },
+    {
+        "title": "왜 우리는 오요안나의 목소리에 귀 기울이지 못했을까?",
+        "slug": "oh-yoanna-voice-workplace-bullying-2505200028",
+        "category": "심리",
+        "keywords": [
+            "직장 내 괴롭힘",
+            "우울증",
+            "정신 건강",
+            "사회적 인식",
+            "오요안나"
+        ]
     }
 ]
   const result = posts.filter(post => {
