@@ -635,6 +635,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "사회적 인식",
             "오요안나"
         ]
+    },
+    {
+        "title": "미국 신용등급 강등, 달러의 미래는?",
+        "slug": "us-credit-downgrade-dollar-future-2505200747",
+        "category": "트렌드",
+        "keywords": [
+            "미국 신용등급",
+            "무디스",
+            "달러화",
+            "글로벌 금융 시장"
+        ]
     }
 ]
   const result = posts.filter(post => {
