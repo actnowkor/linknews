@@ -541,6 +541,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "매수는 잘하는데 매도를 못 한다면 꼭 읽어야 할 심리 전략",
+        "slug": "stock-buy-timing-strategy-2505190940",
+        "category": "심리",
+        "keywords": [
+            "매도심리",
+            "손절타이밍",
+            "이익실현",
+            "투자심리",
+            "주식습관"
+        ]
+    },
+    {
         "title": "ETF와 개별주식 중 뭐가 더 유리할까? 상황별 장단점 비교",
         "slug": "etf-vs-stocks-comparison-guide-2505190938",
         "category": "궁금증",
