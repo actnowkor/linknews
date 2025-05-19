@@ -541,6 +541,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "ETF와 개별주식 중 뭐가 더 유리할까? 상황별 장단점 비교",
+        "slug": "etf-vs-stocks-comparison-guide-2505190938",
+        "category": "궁금증",
+        "keywords": [
+            "ETF",
+            "개별주식",
+            "투자비교",
+            "포트폴리오",
+            "주식입문"
+        ]
+    },
+    {
         "title": "우량주 장기투자, 정말 수익이 날까? 10년 시뮬레이션 결과 분석",
         "slug": "bluechip-10yr-simulation-strategy-2505190759",
         "category": "트렌드",
