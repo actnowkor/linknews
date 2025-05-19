@@ -541,6 +541,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "우량주 장기투자, 정말 수익이 날까? 10년 시뮬레이션 결과 분석",
+        "slug": "bluechip-10yr-simulation-strategy-2505190759",
+        "category": "트렌드",
+        "keywords": [
+            "우량주투자",
+            "장기보유",
+            "10년수익률",
+            "투자시뮬레이션",
+            "장기전략"
+        ]
+    },
+    {
         "title": "“떨어질 때 사면 돈 번다?” 하락장에서 살아남는 매매 전략",
         "slug": "bear-market-buying-strategies-2505142332",
         "category": "자기계발",
