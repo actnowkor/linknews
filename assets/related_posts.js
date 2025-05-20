@@ -648,6 +648,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "예금자보호기금, 왜 달러로도 쌓나?",
+        "slug": "deposit-insurance-dollar-fund-2505200800",
+        "category": "트렌드",
+        "keywords": [
+            "예금자보호기금",
+            "달러 예금",
+            "금융 안정성",
+            "외환 정책"
+        ]
+    },
+    {
         "title": "미·중 관세 전쟁, 이제 끝났나?",
         "slug": "us-china-tariff-truce-2025-2505200751",
         "category": "트렌드",
