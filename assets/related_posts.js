@@ -646,6 +646,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "달러화",
             "글로벌 금융 시장"
         ]
+    },
+    {
+        "title": "미·중 관세 전쟁, 이제 끝났나?",
+        "slug": "us-china-tariff-truce-2025-2505200751",
+        "category": "트렌드",
+        "keywords": [
+            "미중 무역",
+            "관세 인하",
+            "무역 협상",
+            "글로벌 공급망"
+        ]
     }
 ]
   const result = posts.filter(post => {
