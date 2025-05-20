@@ -668,6 +668,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "무역 협상",
             "글로벌 공급망"
         ]
+    },
+    {
+        "title": "왜 우리는 자극적인 뉴스에 끌릴까?",
+        "slug": "why-we-crave-sensational-news-2505200918",
+        "category": "심리",
+        "keywords": [
+            "자극 뉴스",
+            "생생함 효과",
+            "심리 편향",
+            "정보 소비",
+            "주의력"
+        ]
     }
 ]
   const result = posts.filter(post => {
