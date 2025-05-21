@@ -670,6 +670,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "AI가 자꾸 칭찬만 한다고요? 그건 프롬프트 때문입니다",
+        "slug": "gpt-too-positive-fix-prompt-2505201011",
+        "category": "트렌드",
+        "keywords": [
+            "챗GPT",
+            "프롬프트",
+            "어시스턴트 한계",
+            "냉정한 답변",
+            "설정법"
+        ]
+    },
+    {
         "title": "혼자 쓰지 마세요. GPT는 최고의 글쓰기 코치입니다",
         "slug": "gpt-writing-coach-guide-2505200941",
         "category": "자기계발",
