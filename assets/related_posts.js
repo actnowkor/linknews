@@ -670,6 +670,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "혼자 쓰지 마세요. GPT는 최고의 글쓰기 코치입니다",
+        "slug": "gpt-writing-coach-guide-2505200941",
+        "category": "자기계발",
+        "keywords": [
+            "GPT 글쓰기",
+            "초안",
+            "감정 퇴고",
+            "창작 불안",
+            "쓰기 습관"
+        ]
+    },
+    {
         "title": "왜 우리는 자극적인 뉴스에 끌릴까?",
         "slug": "why-we-crave-sensational-news-2505200918",
         "category": "심리",
