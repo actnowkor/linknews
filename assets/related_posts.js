@@ -680,6 +680,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "정보 소비",
             "주의력"
         ]
+    },
+    {
+        "title": "가짜 뉴스에 속는 심리, 그 이면은?",
+        "slug": "why-we-believe-fake-news-2505200935",
+        "category": "심리",
+        "keywords": [
+            "가짜 뉴스",
+            "확증 편향",
+            "인지 편향",
+            "심리",
+            "미디어"
+        ]
     }
 ]
   const result = posts.filter(post => {
