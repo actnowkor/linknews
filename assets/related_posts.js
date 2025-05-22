@@ -694,6 +694,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "왜 우리는 수치심에 휘둘릴까?",
+        "slug": "understanding-shame-and-self-worth-2505201019",
+        "category": "심리",
+        "keywords": [
+            "수치심",
+            "자존감",
+            "감정",
+            "심리",
+            "관계 불안"
+        ]
+    },
+    {
         "title": "왜 우리는 자극적인 뉴스에 끌릴까?",
         "slug": "why-we-crave-sensational-news-2505200918",
         "category": "심리",
