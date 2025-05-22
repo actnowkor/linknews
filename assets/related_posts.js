@@ -670,6 +670,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "왜 AI 글은 사람 같지 않을까?",
+        "slug": "ai-writing-vs-human-touch-2505201054",
+        "category": "궁금증",
+        "keywords": [
+            "챗GPT",
+            "자연스러운 문장",
+            "감정 연결",
+            "대화체",
+            "리듬"
+        ]
+    },
+    {
         "title": "AI가 자꾸 칭찬만 한다고요? 그건 프롬프트 때문입니다",
         "slug": "gpt-too-positive-fix-prompt-2505201011",
         "category": "트렌드",
