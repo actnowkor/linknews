@@ -764,6 +764,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "하드웨어 혁신",
             "신제품"
         ]
+    },
+    {
+        "title": "보험은 안심을 줄까? 위험 인식의 심리적 착시",
+        "slug": "insurance-risk-psychology-2505261056",
+        "category": "심리",
+        "keywords": [
+            "보험",
+            "보험진단",
+            "보험과잉보장",
+            "심리적 안정",
+            "보험심리학"
+        ]
     }
 ]
   const result = posts.filter(post => {
