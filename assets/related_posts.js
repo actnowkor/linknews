@@ -752,6 +752,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "사용자 경험",
             "신기술"
         ]
+    },
+    {
+        "title": "조니 아이브가 다시 만든다, AI 시대의 아이콘",
+        "slug": "jony-ive-ai-design-icon-2505261012",
+        "category": "트렌드",
+        "keywords": [
+            "조니 아이브",
+            "OpenAI",
+            "AI 디자인",
+            "하드웨어 혁신",
+            "신제품"
+        ]
     }
 ]
   const result = posts.filter(post => {
