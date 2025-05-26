@@ -740,6 +740,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "심리",
             "미디어"
         ]
+    },
+    {
+        "title": "화면 없는 기기, 새로운 인터페이스의 시대가 온다",
+        "slug": "screenless-ai-interface-future-2505261004",
+        "category": "궁금증",
+        "keywords": [
+            "OpenAI",
+            "AI 기기",
+            "무화면 인터페이스",
+            "사용자 경험",
+            "신기술"
+        ]
     }
 ]
   const result = posts.filter(post => {
