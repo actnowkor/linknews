@@ -778,6 +778,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "기억에 남는 콘텐츠는 감정이다: 디지털 콘텐츠의 심리 공식",
+        "slug": "emotional-digital-content-2505261122",
+        "category": "자기계발",
+        "keywords": [
+            "디지털콘텐츠",
+            "콘텐츠제작",
+            "영상제작",
+            "AI 콘텐츠",
+            "콘텐츠"
+        ]
+    },
+    {
         "title": "보험은 안심을 줄까? 위험 인식의 심리적 착시",
         "slug": "insurance-risk-psychology-2505261056",
         "category": "심리",
