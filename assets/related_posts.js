@@ -812,6 +812,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "주택시장심리",
             "부동산경기"
         ]
+    },
+    {
+        "title": "창작자는 왜 지치나: 피드백 루프와 콘텐츠 자존감",
+        "slug": "creator-feedback-loop-2505261142",
+        "category": "자기계발",
+        "keywords": [
+            "디지털콘텐츠",
+            "SNS 창작자",
+            "피드백 루프",
+            "자존감과 SNS",
+            "콘텐츠심리"
+        ]
     }
 ]
   const result = posts.filter(post => {
