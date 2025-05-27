@@ -788,6 +788,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "심리적 안정",
             "보험심리학"
         ]
+    },
+    {
+        "title": "집값보다 감정이 움직인다: 주택시장과 기대 심리",
+        "slug": "housing-market-emotion-2505261102",
+        "category": "심리",
+        "keywords": [
+            "부동산심리",
+            "부동산투자",
+            "집값심리",
+            "주택시장심리",
+            "부동산경기"
+        ]
     }
 ]
   const result = posts.filter(post => {
