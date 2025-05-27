@@ -766,6 +766,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "비혼주의자의 심리와 삶의 질: 혼자여도 안정적인 이유",
+        "slug": "psychology-of-single-life-2505261059",
+        "category": "심리",
+        "keywords": [
+            "비혼",
+            "비혼주의자",
+            "비혼주의",
+            "비혼식",
+            "비혼 뜻"
+        ]
+    },
+    {
         "title": "보험은 안심을 줄까? 위험 인식의 심리적 착시",
         "slug": "insurance-risk-psychology-2505261056",
         "category": "심리",
