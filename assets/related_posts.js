@@ -778,6 +778,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "보험, 안심을 사는 심리: 과잉보장의 행동경제학",
+        "slug": "insurance-psychology-economics-2505261208",
+        "category": "심리",
+        "keywords": [
+            "보험",
+            "보험설계",
+            "보험리모델링",
+            "보험종류",
+            "보험비교"
+        ]
+    },
+    {
         "title": "집을 산다는 건 무엇을 소유하는가: 부동산의 심리와 지위",
         "slug": "house-ownership-identity-2505261146",
         "category": "심리",
