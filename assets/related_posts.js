@@ -814,6 +814,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "혼자 사는 삶은 왜 더 철저한가: 비혼의 자기효능감",
+        "slug": "single-life-self-efficacy-2505261231",
+        "category": "심리",
+        "keywords": [
+            "비혼",
+            "1인가구",
+            "자기효능감",
+            "비혼 라이프스타일",
+            "비혼 소비패턴"
+        ]
+    },
+    {
         "title": "보험은 안심을 줄까? 위험 인식의 심리적 착시",
         "slug": "insurance-risk-psychology-2505261056",
         "category": "심리",
