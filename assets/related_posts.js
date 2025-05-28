@@ -778,6 +778,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "집을 산다는 건 무엇을 소유하는가: 부동산의 심리와 지위",
+        "slug": "house-ownership-identity-2505261146",
+        "category": "심리",
+        "keywords": [
+            "부동산",
+            "부동산공부",
+            "부동산투자",
+            "부동산매매",
+            "부동산스터디"
+        ]
+    },
+    {
         "title": "기억에 남는 콘텐츠는 감정이다: 디지털 콘텐츠의 심리 공식",
         "slug": "emotional-digital-content-2505261122",
         "category": "자기계발",
