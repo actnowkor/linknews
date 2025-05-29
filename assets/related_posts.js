@@ -874,6 +874,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "투자 심리를 이기는 5가지 사고 습관",
+        "slug": "investment-psychology-habits-2505281512",
+        "category": "심리",
+        "keywords": [
+            "투자심리",
+            "행동재무학",
+            "FOMO",
+            "확증편향",
+            "손실회피"
+        ]
+    },
+    {
         "title": "CPI와 금리가 당신의 포트폴리오에 미치는 실제 영향",
         "slug": "cpi-interest-rates-portfolio-impact-2505281508",
         "category": "트렌드",
