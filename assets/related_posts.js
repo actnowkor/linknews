@@ -874,6 +874,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "CPI와 금리가 당신의 포트폴리오에 미치는 실제 영향",
+        "slug": "cpi-interest-rates-portfolio-impact-2505281508",
+        "category": "트렌드",
+        "keywords": [
+            "금리",
+            "CPI",
+            "경제지표",
+            "포트폴리오",
+            "시장분석"
+        ]
+    },
+    {
         "title": "차트 패턴, 통계로 검증된 진짜 효과는?",
         "slug": "chart-patterns-statistical-effectiveness-2505281504",
         "category": "궁금증",
