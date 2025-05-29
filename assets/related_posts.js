@@ -872,6 +872,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "투자전략",
             "백테스트"
         ]
+    },
+    {
+        "title": "차트 패턴, 통계로 검증된 진짜 효과는?",
+        "slug": "chart-patterns-statistical-effectiveness-2505281504",
+        "category": "궁금증",
+        "keywords": [
+            "차트패턴",
+            "기술적분석",
+            "투자동향",
+            "패턴검증",
+            "RSI"
+        ]
     }
 ]
   const result = posts.filter(post => {
