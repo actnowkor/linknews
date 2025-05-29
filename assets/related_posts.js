@@ -860,6 +860,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "자존감과 SNS",
             "콘텐츠심리"
         ]
+    },
+    {
+        "title": "터틀 트레이딩 전략, 규칙만 지키면 누가 해도 되는가?",
+        "slug": "turtle-trading-strategy-discipline-2505261521",
+        "category": "자기계발",
+        "keywords": [
+            "터틀트레이딩",
+            "시스템트레이딩",
+            "추세추종",
+            "투자전략",
+            "백테스트"
+        ]
     }
 ]
   const result = posts.filter(post => {
