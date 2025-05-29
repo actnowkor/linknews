@@ -908,6 +908,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "패턴검증",
             "RSI"
         ]
+    },
+    {
+        "title": "모바일 크롬에서 Medium 앱 자동 실행 막는 방법",
+        "slug": "disable-medium-app-launch-on-chrome-2505281536",
+        "category": "궁금증",
+        "keywords": [
+            "Medium",
+            "앱자동실행",
+            "모바일링크",
+            "크롬설정",
+            "앱연결해제"
+        ]
     }
 ]
   const result = posts.filter(post => {
