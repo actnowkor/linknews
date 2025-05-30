@@ -920,6 +920,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "크롬설정",
             "앱연결해제"
         ]
+    },
+    {
+        "title": "선물 선택이 고민될 때, 상황별 추천 가이드",
+        "slug": "gift-selection-guide-2505281549",
+        "category": "자기계발",
+        "keywords": [
+            "선물추천",
+            "감사선물",
+            "답례품",
+            "의미있는선물",
+            "기프트가이드"
+        ]
     }
 ]
   const result = posts.filter(post => {
