@@ -932,6 +932,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "의미있는선물",
             "기프트가이드"
         ]
+    },
+    {
+        "title": "“터틀 트레이딩 전략, 이렇게 구성되어 있습니다 – 규칙 완전 해부”",
+        "slug": "turtle-trading-strategy-breakdown-2505281730",
+        "category": "자기계발",
+        "keywords": [
+            "터틀 트레이딩",
+            "트레이딩 전략",
+            "시스템 매매",
+            "재현 가능한 규칙",
+            "투자 원칙"
+        ]
     }
 ]
   const result = posts.filter(post => {
