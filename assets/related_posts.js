@@ -944,6 +944,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "재현 가능한 규칙",
             "투자 원칙"
         ]
+    },
+    {
+        "title": "터틀 전략은 왜 지금도 언급될까? 장기 생존 전략으로서의 의미",
+        "slug": "turtle-strategy-long-term-survival-2505281731",
+        "category": "자기계발",
+        "keywords": [
+            "터틀 전략",
+            "리스크 관리",
+            "장기 투자",
+            "시스템 트레이딩",
+            "투자 철학"
+        ]
     }
 ]
   const result = posts.filter(post => {
