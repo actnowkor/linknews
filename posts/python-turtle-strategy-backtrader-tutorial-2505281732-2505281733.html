@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>파이썬으로 구현하는 터틀 전략 – backtrader 백테스트 기초 튜토리얼</title>
+<meta name="description" content="Array" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" href="/assets/tailwind.css" />
+
+<!-- 🧠 Google 애널리틱스 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FKSL0JB648"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FKSL0JB648');
+</script>
+
+<!-- 🔍 애드센스 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6038550205357031"
+crossorigin="anonymous"></script>
+<!-- SEARCH_CONSOLE:INSERT_HERE -->
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "파이썬으로 구현하는 터틀 전략 – backtrader 백테스트 기초 튜토리얼",
+      "description": "Array",
+      "author": {
+        "@type": "Organization",
+        "name": "링크뉴스 콘텐츠팀"
+      },
+      "datePublished": "2025-05-31",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.linknews.kr/posts/python-turtle-strategy-backtrader-tutorial-2505281732-2505281733.html"
+      }
+    }
+</script>
+</head>
+<body class="bg-white text-gray-900 font-sans leading-relaxed">
+
+<nav class="bg-white border-b px-4 py-3 text-sm">
+  <div class="max-w-3xl mx-auto flex justify-between items-center">
+    <a href="/" class="font-bold text-xl text-black">링크뉴스</a>
+    <div class="space-x-4 text-gray-700">
+      <a href="/category/curiosity.html" class="hover:underline">궁금증</a>
+<a href="/category/trend.html" class="hover:underline">트렌드</a>
+<a href="/category/growth.html" class="hover:underline">자기계발</a>
+<a href="/category/mind.html" class="hover:underline">심리</a>
+
+    </div>
+  </div>
+</nav>
+
+<article class="max-w-3xl mx-auto px-4 py-10">
+  <nav class="text-sm text-gray-500 mb-4">
+    <a href="/" class="hover:underline">홈</a> >
+    <a href="/category/growth.html" class="hover:underline">자기계발</a>
+  </nav>
+
+  <header class="mb-6">
+    <h1 class="text-3xl font-bold mb-2">파이썬으로 구현하는 터틀 전략 – backtrader 백테스트 기초 튜토리얼</h1>
+    <p class="text-sm text-gray-500">자기계발 · 2025-05-31</p>
+  </header>
+
+  <div class="ad-top"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6038550205357031" data-ad-slot="4818628909" data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+  <section class="prose prose-lg max-w-none my-8">
+    <div class="image-wrapper">
+<img src="https://images.unsplash.com/photo-1652151368404-d9b0e7713bdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2OTAzMzV8MHwxfHNlYXJjaHw1fHxweXRob24lMjBiYWNrdGVzdGluZyUyMHRyYWRpbmd8ZW58MHx8fHwxNzQ4NDIxMTY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="graphical user interface, application" loading="lazy">
+<span class="image-credit">Photo by <a href="https://unsplash.com/@coinhako_official" target="_blank" class="underline">Coinhako</a> on <a href="https://unsplash.com/photos/t28IwDyGHnU" target="_blank" class="underline">Unsplash</a></span>
+</div>
+
+<h2>터틀 전략이란?</h2>
+<p>터틀 전략은 추세 추종 기반의 시스템 트레이딩 전략으로, 특정 조건에서 매수 및 매도를 자동으로 수행합니다. 이 전략은 가격이 일정한 추세를 보일 때 높은 수익률을 기대할 수 있도록 설계되어 있습니다.</p>
+
+<h2>backtrader란?</h2>
+<p>backtrader는 파이썬 기반의 강력한 백테스트 프레임워크로, 전략 작성, 데이터 로딩, 결과 시각화 등 트레이딩 전략을 실험하는 데 필수적인 기능을 제공합니다.</p>
+
+<h2>설정 및 기본 코드</h2>
+<p>먼저 backtrader를 설치합니다.</p>
+<pre><code>pip install backtrader</code></pre>
+<p>기초 골격을 작성합니다.</p>
+<pre><code>import backtrader as bt
+
+class TurtleStrategy(bt.Strategy):
+    def __init__(self):
+        self.high20 = bt.ind.Highest(self.data.high, period=20)
+        self.low10 = bt.ind.Lowest(self.data.low, period=10)
+
+    def next(self):
+        if not self.position:
+            if self.data.close[0] > self.high20[0]:
+                self.buy()
+        else:
+            if self.data.close[0] < self.low10[0]:
+                self.close()</code></pre>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6038550205357031" data-ad-slot="8281083967" data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+<h2>데이터 로딩과 실행</h2>
+<p>CSV 파일을 불러오고 실행합니다.</p>
+<pre><code>data = bt.feeds.GenericCSVData(
+    dataname='your_data.csv',
+    dtformat='%Y-%m-%d',
+    timeframe=bt.TimeFrame.Days,
+    compression=1,
+    openinterest=-1,
+    fromdate=datetime(2019, 1, 1),
+    todate=datetime(2021, 1, 1)
+)
+
+cerebro = bt.Cerebro()
+cerebro.adddata(data)
+cerebro.addstrategy(TurtleStrategy)
+cerebro.run()
+cerebro.plot()</code></pre>
+
+<h2>시각화와 해석</h2>
+<p>실행 결과는 추세 구간에서 포지션 진입 및 청산이 잘 작동하는지 시각적으로 확인할 수 있습니다. 또한 여러 파라미터를 조정하여 전략의 민감도를 실험해볼 수 있습니다.</p>
+
+<h2>마무리</h2>
+<p>파이썬과 backtrader를 활용하면 과거 데이터를 기반으로 전략을 안전하게 검증할 수 있습니다. 터틀 전략은 특히 단순하면서도 강력한 구조를 가지고 있어 학습 및 실습에 적합합니다.</p>
+
+<div class="image-wrapper">
+<img src="https://images.unsplash.com/photo-1640661089711-708d6043d0c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2OTAzMzV8MHwxfHNlYXJjaHwzfHxweXRob24lMjBiYWNrdGVzdGluZyUyMHRyYWRpbmd8ZW58MHx8fHwxNzQ4NDIxMTY3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="a yellow plastic object sitting on top of a blue surface" loading="lazy">
+<span class="image-credit">Photo by <a href="https://unsplash.com/@asyfaul" target="_blank" class="underline">Muhammad Asyfaul</a> on <a href="https://unsplash.com/photos/Zaa5wEaQdeA" target="_blank" class="underline">Unsplash</a></span>
+</div>
+  </section>
+
+  <footer class="mt-12 pt-8 border-t">
+    <h2 class="text-xl font-semibold mb-4">관련 콘텐츠</h2>
+    <div id="related-posts"></div>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6038550205357031" data-ad-slot="1907247301" data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </footer>
+</article>
+
+<footer class="bg-gray-50 border-t mt-10 text-sm text-gray-600 py-6">
+  <div class="max-w-3xl mx-auto px-4">
+    <p>&copy; 2025 링크뉴스. 모든 권리 보유.</p>
+  </div>
+</footer>
+
+<script src="/assets/related_posts.js"></script>
+<script>
+(function() {
+  const currentSlug = "python-turtle-strategy-backtrader-tutorial-2505281732-2505281733";
+  const currentCategory = "자기계발";
+  const currentKeywords = ["터틀 전략","파이썬","backtrader","백테스트","시스템 트레이딩"];
+  const container = document.getElementById('related-posts');
+  if (typeof findRelated === "function") {
+    const related = findRelated(currentSlug, currentCategory, currentKeywords);
+    if (container && related.length) {
+      const ul = document.createElement('ul');
+      related.forEach(post => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '/posts/' + post.slug + '.html';
+        a.textContent = post.title;
+        li.appendChild(a);
+        ul.appendChild(li);
+      });
+      container.appendChild(ul);
+    } else if (container) {
+      container.innerHTML = "<p>추천 콘텐츠가 없습니다.</p>";
+    }
+  } else {
+    if (container) container.innerHTML = "<!-- relatedPosts.js not loaded -->";
+  }
+})();
+</script>
+
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "126cda045da67e0";
+if(window.wcs) { wcs_do(); }
+</script>
+</body>
+</html>
