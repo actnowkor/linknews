@@ -946,6 +946,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "파이썬으로 구현하는 터틀 전략 – backtrader 백테스트 기초 튜토리얼",
+        "slug": "python-turtle-strategy-backtrader-tutorial-2505281732-2505281733",
+        "category": "자기계발",
+        "keywords": [
+            "터틀 전략",
+            "파이썬",
+            "backtrader",
+            "백테스트",
+            "시스템 트레이딩"
+        ]
+    },
+    {
         "title": "터틀 전략은 왜 지금도 언급될까? 장기 생존 전략으로서의 의미",
         "slug": "turtle-strategy-long-term-survival-2505281731",
         "category": "자기계발",
