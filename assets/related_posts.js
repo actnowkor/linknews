@@ -934,6 +934,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "작별선물, 따뜻한 기억을 남기는 사람들의 선택",
+        "slug": "farewell-gift-meaningful-choices-2505281741-2505281737",
+        "category": "자기계발",
+        "keywords": [
+            "작별선물",
+            "이직선물",
+            "졸업기념",
+            "추억선물"
+        ]
+    },
+    {
         "title": "“터틀 트레이딩 전략, 이렇게 구성되어 있습니다 – 규칙 완전 해부”",
         "slug": "turtle-trading-strategy-breakdown-2505281730",
         "category": "자기계발",
