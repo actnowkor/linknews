@@ -946,6 +946,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "트레이딩뷰로 터틀 전략 구현하는 방법 – 코드와 설정 공개",
+        "slug": "tradingview-turtle-strategy-implementation-guide-2505281737-2505281735",
+        "category": "자기계발",
+        "keywords": [
+            "터틀 전략",
+            "트레이딩뷰",
+            "Pine Script",
+            "트레이딩 자동화",
+            "전략 구현"
+        ]
+    },
+    {
         "title": "파이썬으로 구현하는 터틀 전략 – backtrader 백테스트 기초 튜토리얼",
         "slug": "python-turtle-strategy-backtrader-tutorial-2505281732-2505281733",
         "category": "자기계발",
