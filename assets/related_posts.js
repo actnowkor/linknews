@@ -993,6 +993,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "내가 못된 걸까? 돈 벌수록 친구가 줄었다",
+        "slug": "rich-lonely-psychology-2506112038-2506112033",
+        "category": "심리",
+        "keywords": [
+            "부자 심리",
+            "관계 변화",
+            "성공의 대가",
+            "외로움"
+        ]
+    },
+    {
         "title": "왜 TikTok 창업자는 인터뷰를 피할까?",
         "slug": "tiktok-founder-media-strategy-2506112030",
         "category": "궁금증",
