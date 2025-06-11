@@ -1013,6 +1013,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "미디어 회피",
             "장잉밍"
         ]
+    },
+    {
+        "title": "억만장자 100인의 첫 사업 아이디어는 이것이었다",
+        "slug": "first-business-ideas-of-billionaires-2506112034",
+        "category": "트렌드",
+        "keywords": [
+            "창업 아이템",
+            "시작 단계",
+            "현실성",
+            "실패율"
+        ]
     }
 ]
   const result = posts.filter(post => {
