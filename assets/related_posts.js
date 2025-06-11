@@ -993,14 +993,14 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
-        "title": "왜 부자들은 꼭 ‘차고’에서 시작했을까?",
-        "slug": "garage-startup-success-2506112004",
+        "title": "왜 TikTok 창업자는 인터뷰를 피할까?",
+        "slug": "tiktok-founder-media-strategy-2506112030",
         "category": "궁금증",
         "keywords": [
-            "스타트업",
-            "창업 심리",
-            "차고 창업",
-            "상징 공간"
+            "창업자 성향",
+            "은둔 부자",
+            "미디어 회피",
+            "장잉밍"
         ]
     }
 ]
