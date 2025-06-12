@@ -934,6 +934,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "사과선물, 말보다 진심을 전하는 방법",
+        "slug": "gift-for-apology-emotion-2506112036",
+        "category": "심리",
+        "keywords": [
+            "사과선물",
+            "화해선물",
+            "감정회복",
+            "관계회복"
+        ]
+    },
+    {
         "title": "작별선물, 따뜻한 기억을 남기는 사람들의 선택",
         "slug": "farewell-gift-meaningful-choices-2505281741-2505281737",
         "category": "자기계발",
