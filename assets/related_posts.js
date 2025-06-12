@@ -1035,6 +1035,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
             "현실성",
             "실패율"
         ]
+    },
+    {
+        "title": "부자들이 실패를 남기는 방식",
+        "slug": "how-rich-people-handle-failure-2506112038",
+        "category": "자기계발",
+        "keywords": [
+            "실패 관리",
+            "회복 탄력성",
+            "기록",
+            "피드백 전략"
+        ]
     }
 ]
   const result = posts.filter(post => {
