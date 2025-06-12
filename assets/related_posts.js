@@ -1015,6 +1015,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "성공한 사람들의 ‘고3 시절’은 어땠을까?",
+        "slug": "highschool-year-of-successful-people-2506112049-2506112046",
+        "category": "궁금증",
+        "keywords": [
+            "진로 고민",
+            "청소년기",
+            "성장배경",
+            "위인 스토리"
+        ]
+    },
+    {
         "title": "왜 TikTok 창업자는 인터뷰를 피할까?",
         "slug": "tiktok-founder-media-strategy-2506112030",
         "category": "궁금증",
