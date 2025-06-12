@@ -1026,6 +1026,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "‘운 좋은 사람’의 정체는 따로 있다",
+        "slug": "lucky-person-strategy-2506112042-2506112044",
+        "category": "자기계발",
+        "keywords": [
+            "기회 감지력",
+            "행운",
+            "직감",
+            "성공 습관"
+        ]
+    },
+    {
         "title": "억만장자 100인의 첫 사업 아이디어는 이것이었다",
         "slug": "first-business-ideas-of-billionaires-2506112034",
         "category": "트렌드",
