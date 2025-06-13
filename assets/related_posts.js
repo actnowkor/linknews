@@ -992,6 +992,18 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "기계처럼 투자하는 이유 – 감정 배제를 위한 시스템 트레이딩 입문",
+        "slug": "systematic-trading-principles-2506112049",
+        "category": "자기계발",
+        "keywords": [
+            "시스템 트레이딩",
+            "투자 감정",
+            "투자 원칙",
+            "감정 배제",
+            "규칙 매매"
+        ]
+    },
+    {
         "title": "터틀 전략은 왜 지금도 언급될까? 장기 생존 전략으로서의 의미",
         "slug": "turtle-strategy-long-term-survival-2505281731",
         "category": "자기계발",
