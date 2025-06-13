@@ -1004,6 +1004,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "지금도 부자들은 책상에서 메모한다",
+        "slug": "rich-people-handwriting-habit-2506112047",
+        "category": "자기계발",
+        "keywords": [
+            "생산성",
+            "아침 루틴",
+            "집중력",
+            "부자 습관"
+        ]
+    },
+    {
         "title": "내가 못된 걸까? 돈 벌수록 친구가 줄었다",
         "slug": "rich-lonely-psychology-2506112038-2506112033",
         "category": "심리",
