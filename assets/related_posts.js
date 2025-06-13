@@ -1015,6 +1015,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "세계적 부자 100명의 공통점은 단 하나였다",
+        "slug": "billionaire-core-trait-2506112048-2506112048",
+        "category": "트렌드",
+        "keywords": [
+            "부자 마인드",
+            "공통점",
+            "행동 패턴",
+            "자기통제"
+        ]
+    },
+    {
         "title": "내가 못된 걸까? 돈 벌수록 친구가 줄었다",
         "slug": "rich-lonely-psychology-2506112038-2506112033",
         "category": "심리",
