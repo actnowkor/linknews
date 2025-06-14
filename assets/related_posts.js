@@ -934,6 +934,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "센스 있는 감사선물, 부담 없이 감동 주는 공식",
+        "slug": "thank-you-gift-guide-2506112054",
+        "category": "자기계발",
+        "keywords": [
+            "감사선물",
+            "소소한선물",
+            "직장선물",
+            "감동주는선물"
+        ]
+    },
+    {
         "title": "축하선물 고르는 법, 기억에 남는 사람은 이렇게 합니다",
         "slug": "gift-guide-celebration-2506112050-2506112053",
         "category": "트렌드",
