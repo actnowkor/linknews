@@ -934,6 +934,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "축하선물 고르는 법, 기억에 남는 사람은 이렇게 합니다",
+        "slug": "gift-guide-celebration-2506112050-2506112053",
+        "category": "트렌드",
+        "keywords": [
+            "축하선물",
+            "생일선물",
+            "승진선물",
+            "결혼선물"
+        ]
+    },
+    {
         "title": "사과선물, 말보다 진심을 전하는 방법",
         "slug": "gift-for-apology-emotion-2506112036",
         "category": "심리",
