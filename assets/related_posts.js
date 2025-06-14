@@ -1082,6 +1082,17 @@ function findRelated(currentSlug, currentCategory, currentKeywords) {
         ]
     },
     {
+        "title": "억만장자들도 ‘번아웃’이 온다",
+        "slug": "burnout-billionaires-case-2506112057",
+        "category": "심리",
+        "keywords": [
+            "번아웃",
+            "심리",
+            "회복 전략",
+            "부자 멘탈"
+        ]
+    },
+    {
         "title": "왜 TikTok 창업자는 인터뷰를 피할까?",
         "slug": "tiktok-founder-media-strategy-2506112030",
         "category": "궁금증",
